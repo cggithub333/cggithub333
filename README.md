@@ -190,23 +190,23 @@ Development Tools
 
 <!-- Hero Stats Card with Private Repos -->
 <img src="https://github-readme-stats.vercel.app/api?username=cggithub333&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&ring_color=1F6FEB" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com? user=cggithub333&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="49%" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com? user=cggithub333&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&count_private=true" width="49%" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
 <!-- Detailed Activity Graph -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cggithub333&theme=tokyonight" width="100%" alt="Contribution Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cggithub333&theme=tokyonight&count_private=true" width="100%" alt="Contribution Graph" />
 
 </div>
 
 <div align="center">
 
 <!-- Language & Commit Stats -->
-<img src="https://github-profile-summary-cards.vercel. app/api/cards/repos-per-language?username=cggithub333&theme=tokyonight" width="32%" alt="Repos per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cggithub333&theme=tokyonight" width="32%" alt="Most Commit Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cggithub333&theme=tokyonight&utcOffset=7" width="32%" alt="Productive Time" />
+<img src="https://github-profile-summary-cards.vercel. app/api/cards/repos-per-language?username=cggithub333&theme=tokyonight&count_private=true" width="32%" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cggithub333&theme=tokyonight&count_private=true" width="32%" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cggithub333&theme=tokyonight&utcOffset=7&count_private=true" width="32%" alt="Productive Time" />
 
 </div>
 
@@ -216,14 +216,14 @@ Development Tools
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cggithub333&layout=compact&langs_count=12&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB" width="49%" alt="Top Languages" />
 
 <!-- Activity Graph with better styling -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cggithub333&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9&area=true&custom_title=Contribution%20Activity" width="49%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cggithub333&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9&area=true&custom_title=Contribution%20Activity&count_private=true" width="49%" alt="Activity Graph" />
 
 </div>
 
 <div align="center">
 
 <!-- GitHub Trophies with better layout -->
-<img src="https://github-profile-trophy.vercel.app/?username=cggithub333&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=cggithub333&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15&count_private=true" width="100%" alt="GitHub Trophies" />
 
 </div>
 
