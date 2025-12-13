@@ -8,7 +8,7 @@
 ---
 
 <p align="center" width="100%">
-  <img width="90%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW50czd1aG9pbzNnNzZ3ZXg5ZXVnamkwdDFkdG9vaTBna2QyODNydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aHiv481xki1WdhQonS/giphy.gif" alt="Coding Animation">
+  <img width="90%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW50czd1aG9pbzNnNzZ3ZXg5ZXVnamkwdDFkdG9vaTBna2QyODNydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aHiv481xki1WdhQonS/giphy.gif" alt="coding-gif"/>
 </p>
 
 ---
@@ -25,7 +25,7 @@
 - **Specialization**: Backend Systems & Microservices
 - **Experience**: Spring Boot, Node.js, React
 - **Leadership**: Frontend Team Lead
-- **Academic**: GPA 3.3/4.0
+- **Academic**:  GPA 3.3/4.0
 
 </td>
 <td width="50%" valign="top">
@@ -35,7 +35,7 @@
 - **Project**: Laboratory Information System
   - 8+ Microservices Architecture
   - Redis, Kafka, gRPC Integration
-- **Learning**: Distributed Systems, Event Streaming
+- **Learning**:  Distributed Systems, Event Streaming
 - **Goal**: Senior Developer (5-year plan)
 
 </td>
@@ -47,7 +47,7 @@
 
 - **Languages**: 🇻🇳 Vietnamese (Native), 🇺🇸 English, 🇯🇵 Japanese (Learning)
 - **Interests**: CLI Tools Development, New Technologies
-- **Fun Fact**: Building CLI tools & mastering Japanese! 
+- **Fun Fact**: Building CLI tools & mastering Japanese!  
 
 </td>
 <td width="50%" valign="top">
@@ -56,7 +56,7 @@
 
 - **Email**: hhc9104@gmail.com
 - **Location**: Ho Chi Minh City, Vietnam
-- **Open to**: Collaboration & Opportunities
+- **Open to**:  Collaboration & Opportunities
 
 </td>
 </tr>
@@ -73,7 +73,7 @@ Programming Languages
 </td>
 <td width="800" align="center" style="padding: 10px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin: 8px;" hspace="15"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin: 8px;" hspace="15"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin:  8px;" hspace="15"/>
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40" style="margin: 8px;" hspace="15"/>
 </td>
 </tr>
@@ -99,7 +99,7 @@ Backend
 <td align="center" style="padding: 10px;">
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" style="margin: 8px;" hspace="15"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="margin: 8px;" hspace="15"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" style="margin: 8px;" hspace="15"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express. js" width="40" height="40" style="margin: 8px;" hspace="15"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40" style="margin: 8px;" hspace="15"/>
 <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="Pug" width="40" height="40" style="margin: 8px;" hspace="15"/>
 </td>
@@ -110,11 +110,11 @@ Backend
 Databases
 </td>
 <td align="center" style="padding: 10px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="margin: 8px;" hspace="15"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin: 8px;" hspace="15"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="margin:  8px;" hspace="15"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark. svg" alt="MySQL" width="40" height="40" style="margin: 8px;" hspace="15"/>
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40" style="margin: 8px;" hspace="15"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="margin: 8px;" hspace="15"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" style="margin: 8px;" hspace="15"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark. svg" alt="MongoDB" width="40" height="40" style="margin: 8px;" hspace="15"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" style="margin:  8px;" hspace="15"/>
 </td>
 </tr>
 
@@ -124,10 +124,10 @@ Cloud & DevOps
 </td>
 <td align="center" style="padding: 10px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" style="margin: 8px;" hspace="15"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" style="margin: 8px;" hspace="15"/>
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" style="margin: 8px;" hspace="15"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark. svg" alt="Docker" width="40" height="40" style="margin: 8px;" hspace="15"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" style="margin:  8px;" hspace="15"/>
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40" style="margin: 8px;" hspace="15"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" style="margin: 8px;" hspace="15"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original. svg" alt="Nginx" width="40" height="40" style="margin: 8px;" hspace="15"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin: 8px;" hspace="15"/>
 </td>
 </tr>
@@ -136,7 +136,7 @@ Cloud & DevOps
 <td align="center">
 Message Brokers
 </td>
-<td align="center" style="padding: 10px;">
+<td align="center" style="padding:  10px;">
 <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40" style="margin: 8px;" hspace="15"/>
 </td>
 </tr>
@@ -146,7 +146,7 @@ Message Brokers
 Monitoring & Logging
 </td>
 <td align="center" style="padding: 10px;">
-<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40" style="margin: 8px;" hspace="15"/>
+<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40" style="margin:  8px;" hspace="15"/>
 <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="Kibana" width="40" height="40" style="margin: 8px;" hspace="15"/>
 <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40" style="margin: 8px;" hspace="15"/>
 </td>
@@ -156,7 +156,7 @@ Monitoring & Logging
 <td align="center">
 Development Tools
 </td>
-<td align="center" style="padding: 10px;">
+<td align="center" style="padding:  10px;">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin: 8px;" hspace="15"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" style="margin: 8px;" hspace="15"/>
 </td>
@@ -170,7 +170,7 @@ Development Tools
 #### 🏥 [Laboratory Information System](https://github.com/cggithub333) 
 **Java Developer - Frontend Leader** | *Jan 2025 - Dec 2025*
 - Contributed to the development of a **microservice-based healthcare system** comprising **8+ services**
-- Leveraged cutting-edge technologies: **Redis, Kafka, gRPC** for inter-service communication
+- Leveraged cutting-edge technologies:  **Redis, Kafka, gRPC** for inter-service communication
 - Led the **frontend development team**, designing and implementing intuitive, responsive user interfaces with **React**
 - Collaborated with backend developers to integrate APIs and ensure seamless communication between services
 - Implemented real-time data synchronization and event-driven architecture patterns
@@ -188,9 +188,9 @@ Development Tools
 
 <div align="center">
 
-<!-- Hero Stats Card -->
+<!-- Hero Stats Card with Private Repos -->
 <img src="https://github-readme-stats.vercel.app/api?username=cggithub333&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&ring_color=1F6FEB" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=cggithub333&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" width="49%" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com? user=cggithub333&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="49%" alt="GitHub Streak" />
 
 </div>
 
@@ -204,7 +204,7 @@ Development Tools
 <div align="center">
 
 <!-- Language & Commit Stats -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cggithub333&theme=tokyonight" width="32%" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel. app/api/cards/repos-per-language?username=cggithub333&theme=tokyonight" width="32%" alt="Repos per Language" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cggithub333&theme=tokyonight" width="32%" alt="Most Commit Language" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cggithub333&theme=tokyonight&utcOffset=7" width="32%" alt="Productive Time" />
 
@@ -212,11 +212,11 @@ Development Tools
 
 <div align="center">
 
-<!-- Top Languages Compact View -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cggithub333&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=html,css" width="49%" alt="Top Languages" />
+<!-- Top Languages with Private Repos -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cggithub333&layout=compact&langs_count=12&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB" width="49%" alt="Top Languages" />
 
 <!-- Activity Graph with better styling -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cggithub333&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9&area=true&custom_title=Contribution%20Activity%20Graph" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cggithub333&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9&area=true&custom_title=Contribution%20Activity" width="49%" alt="Activity Graph" />
 
 </div>
 
@@ -224,14 +224,6 @@ Development Tools
 
 <!-- GitHub Trophies with better layout -->
 <img src="https://github-profile-trophy.vercel.app/?username=cggithub333&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies" />
-
-</div>
-
-<div align="center">
-
-<!-- Additional Stats Cards -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=cggithub333&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact" width="49%" alt="Coding Stats" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=cggithub333&repo=cggithub333&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" width="49%" alt="Pinned Repo" />
 
 </div>
 
@@ -244,7 +236,7 @@ Development Tools
 <td width="140">📧 <b>Email</b></td>
 <td width="300">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><br/>
-<a href="mailto:hhc9104@gmail.com">hhc9104@gmail.com</a>
+<a href="mailto: hhc9104@gmail.com">hhc9104@gmail.com</a>
 </td>
 <td width="140">💼 <b>LinkedIn</b></td>
 <td width="450"> 
@@ -255,7 +247,7 @@ Development Tools
 <tr>
 <td>🐦 <b>Twitter</b></td>
 <td>
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Twitter-1DA1F2? style=for-the-badge&logo=twitter&logoColor=white" /><br/>
 <a href="https://x.com/cggithub333">x.com/cggithub333</a>
 </td>
 <td>💻 <b>GitHub</b></td>
