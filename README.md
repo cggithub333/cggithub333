@@ -24,7 +24,6 @@
 - **Current Role**: Full Stack Developer
 - **Specialization**: Backend Systems & Microservices
 - **Experience**: Spring Boot, Node.js, React
-- **Leadership**: Frontend Team Lead
 - **Academic**:  GPA 3.3/4.0
 
 </td>
@@ -35,7 +34,7 @@
 - **Project**: Laboratory Information System
   - 8+ Microservices Architecture
   - Redis, Kafka, gRPC Integration
-- **Learning**:  Distributed Systems, Event Streaming
+- **Interest**:  Distributed Systems, Event Streaming
 - **Goal**: Senior Developer (5-year plan)
 
 </td>
