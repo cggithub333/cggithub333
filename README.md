@@ -66,12 +66,12 @@
 
 ### 🛠️ Tech Stack
 
-<table width="100%">
+<table>
 <tr>
-<td align="center" width="20%">
-<strong>Programming Languages</strong>
+<td align="center" width="250">
+Programming Languages
 </td>
-<td width="80%" align="center" style="padding: 10px;">
+<td width="800" align="center" style="padding: 10px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin: 8px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin: 8px;"/>
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40" style="margin: 8px;"/>
@@ -79,10 +79,10 @@
 </tr>
 
 <tr>
-<td align="center" width="20%">
-<strong>Frontend</strong>
+<td align="center">
+Frontend
 </td>
-<td width="80%" align="center" style="padding: 10px;">
+<td align="center" style="padding: 10px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin: 8px;"/>
 <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" style="margin: 8px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" style="margin: 8px;"/>
@@ -93,10 +93,10 @@
 </tr>
 
 <tr>
-<td align="center" width="20%">
-<strong>Backend</strong>
+<td align="center">
+Backend
 </td>
-<td width="80%" align="center" style="padding: 10px;">
+<td align="center" style="padding: 10px;">
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" style="margin: 8px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="margin: 8px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" style="margin: 8px;"/>
@@ -106,10 +106,10 @@
 </tr>
 
 <tr>
-<td align="center" width="20%">
-<strong>Databases</strong>
+<td align="center">
+Databases
 </td>
-<td width="80%" align="center" style="padding: 10px;">
+<td align="center" style="padding: 10px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="margin: 8px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin: 8px;"/>
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40" style="margin: 8px;"/>
@@ -119,10 +119,10 @@
 </tr>
 
 <tr>
-<td align="center" width="20%">
-<strong>Cloud & DevOps</strong>
+<td align="center">
+Cloud & DevOps
 </td>
-<td width="80%" align="center" style="padding: 10px;">
+<td align="center" style="padding: 10px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" style="margin: 8px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" style="margin: 8px;"/>
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" style="margin: 8px;"/>
@@ -133,19 +133,19 @@
 </tr>
 
 <tr>
-<td align="center" width="20%">
-<strong>Message Brokers</strong>
+<td align="center">
+Message Brokers
 </td>
-<td width="80%" align="center" style="padding: 10px;">
+<td align="center" style="padding: 10px;">
 <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40" style="margin: 8px;"/>
 </td>
 </tr>
 
 <tr>
-<td align="center" width="20%">
-<strong>Monitoring & Logging</strong>
+<td align="center">
+Monitoring & Logging
 </td>
-<td width="80%" align="center" style="padding: 10px;">
+<td align="center" style="padding: 10px;">
 <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40" style="margin: 8px;"/>
 <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="Kibana" width="40" height="40" style="margin: 8px;"/>
 <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40" style="margin: 8px;"/>
@@ -153,10 +153,10 @@
 </tr>
 
 <tr>
-<td align="center" width="20%">
-<strong>Development Tools</strong>
+<td align="center">
+Development Tools
 </td>
-<td width="80%" align="center" style="padding: 10px;">
+<td align="center" style="padding: 10px;">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin: 8px;"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" style="margin: 8px;"/>
 </td>
@@ -227,56 +227,29 @@
 
 ### 🤝 Connect with Me
 
-<table width="100%">
+<table text-align="center">
 <tr>
-<td>
-
-📧 **Email**
-
+<td width="140">📧 <b>Email</b></td>
+<td width="300">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><br/>
+<a href="mailto:hhc9104@gmail.com">hhc9104@gmail.com</a>
 </td>
-<td>
-
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> [hhc9104@gmail.com](mailto:hhc9104@gmail.com)
-
+<td width="140">💼 <b>LinkedIn</b></td>
+<td width="450"> 
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><br/>
+<a href="https://linkedin.com/in/bryan-ha-189381202">linkedin.com/in/bryan-ha-189381202</a>
 </td>
 </tr>
-
 <tr>
+<td>🐦 <b>Twitter</b></td>
 <td>
-
-💼 **LinkedIn**
-
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /><br/>
+<a href="https://x.com/cggithub333">x.com/cggithub333</a>
 </td>
+<td>💻 <b>GitHub</b></td>
 <td>
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> [linkedin.com/in/bryan-ha-189381202](https://linkedin.com/in/bryan-ha-189381202)
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-🐦 **Twitter**
-
-</td>
-<td>
-
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/> [x.com/cggithub333](https://x.com/cggithub333)
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-💻 **GitHub**
-
-</td>
-<td>
-
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> [github.com/cggithub333](https://github.com/cggithub333)
-
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><br/>
+<a href="https://github.com/cggithub333">github.com/cggithub333</a>
 </td>
 </tr>
 </table>
