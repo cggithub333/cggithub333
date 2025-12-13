@@ -257,7 +257,10 @@ Development Tools
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cggithub333&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/cggithub333?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=cggithub333&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" hspace="5"/>
+  <img src="https://img.shields.io/github/stars/cggithub333?affiliations=OWNER&label=Total%20Stars&style=flat" alt="Total Stars"  hspace="5"/>
+  <img src="https://img.shields.io/github/last-commit/cggithub333/cggithub333?label=Last%20commit&style=flat" alt="Last Commit"  hspace="5"/>
+  <img src="https://img.shields.io/github/followers/cggithub333?label=Followers&style=social" alt="GitHub Followers"  hspace="5"/>
 </p>
+
 
