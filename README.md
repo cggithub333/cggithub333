@@ -32,7 +32,7 @@
 #### 🚀 Current Focus
 
 - **Project**: Laboratory Information System
-  - 8+ Microservices Architecture
+  - 8+ Services
   - Redis, Kafka, gRPC Integration
 - **Interest**:  Distributed Systems, Event Streaming
 - **Goal**: Senior Developer (5-year plan)
