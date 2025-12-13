@@ -7,153 +7,167 @@
 
 ---
 
+<p align="center" width="100%">
+  <img width="90%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW50czd1aG9pbzNnNzZ3ZXg5ZXVnamkwdDFkdG9vaTBna2QyODNydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aHiv481xki1WdhQonS/giphy.gif" alt="Coding Gif" width="400"/>
+</p>
+
+---
+
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently working on **Laboratory Information System** - a microservice-based healthcare system with 8+ services
-- 🌱 I'm learning **Microservices Architecture, Kafka, gRPC, and expanding my skills in distributed systems**
-- 💼 Experienced in **full-stack development** with Spring Boot, Node.js, and React
-- 🎯 Specialized in **backend systems, microservices, and frontend leadership**
-- 🎓 Current GPA: **3.3/4.0**
-- 🚀 Career Goal: Advancing to **Senior Developer** within the next five years
-- 🛠️ Passionate about **CLI tools development** and exploring new technologies
-- 🌏 Languages: **English, Japanese (learning), Vietnamese (native)**
-- 📫 Reach me at **hhc9104@gmail.com**
-- ⚡ Fun fact: **I build CLI tools in my free time and I'm on a journey to master Japanese!**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 💼 Professional
+
+- **Current Role**: Full Stack Developer
+- **Specialization**: Backend Systems & Microservices
+- **Experience**: Spring Boot, Node.js, React
+- **Leadership**: Frontend Team Lead
+- **Academic**: GPA 3.3/4.0
+
+</td>
+<td width="50%" valign="top">
+
+#### 🚀 Current Focus
+
+- **Project**: Laboratory Information System
+  - 8+ Microservices Architecture
+  - Redis, Kafka, gRPC Integration
+- **Learning**: Distributed Systems, Event Streaming
+- **Goal**: Senior Developer (5-year plan)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🌏 Personal
+
+- **Languages**: 🇻🇳 Vietnamese (Native), 🇺🇸 English, 🇯🇵 Japanese (Learning)
+- **Interests**: CLI Tools Development, New Technologies
+- **Fun Fact**: Building CLI tools & mastering Japanese! 
+
+</td>
+<td width="50%" valign="top">
+
+#### 📬 Contact
+
+- **Email**: hhc9104@gmail.com
+- **Location**: Ho Chi Minh City, Vietnam
+- **Open to**: Collaboration & Opportunities
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### **Programming Languages**
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-</p>
+<table>
+<tr>
+<td align="center" width="20%">
+<strong>Programming Languages</strong>
+</td>
+<td width="80%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin: 5px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin: 5px;"/>
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40" style="margin: 5px;"/>
+</td>
+</tr>
 
-#### **Frontend Development**
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-</p>
+<tr>
+<td align="center" width="20%">
+<strong>Frontend</strong>
+</td>
+<td width="80%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin: 5px;"/>
+<img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" style="margin: 5px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" style="margin: 5px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin: 5px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin: 5px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" style="margin: 5px;"/>
+</td>
+</tr>
 
-#### **Backend Development**
-<p align="left">
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  </a>
-  <a href="https://pugjs.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>
-  </a>
-</p>
+<tr>
+<td align="center" width="20%">
+<strong>Backend</strong>
+</td>
+<td width="80%">
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" style="margin: 5px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="margin: 5px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" style="margin: 5px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40" style="margin: 5px;"/>
+<img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="Pug" width="40" height="40" style="margin: 5px;"/>
+</td>
+</tr>
 
-#### **Databases**
-<p align="left">
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-</p>
+<tr>
+<td align="center" width="20%">
+<strong>Databases</strong>
+</td>
+<td width="80%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="margin: 5px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin: 5px;"/>
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40" style="margin: 5px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="margin: 5px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" style="margin: 5px;"/>
+</td>
+</tr>
 
-#### **Cloud & DevOps**
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-</p>
+<tr>
+<td align="center" width="20%">
+<strong>Cloud & DevOps</strong>
+</td>
+<td width="80%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" style="margin: 5px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" style="margin: 5px;"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" style="margin: 5px;"/>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40" style="margin: 5px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" style="margin: 5px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin: 5px;"/>
+</td>
+</tr>
 
-#### **Message Brokers & Event Streaming**
-<p align="left">
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
-  </a>
-</p>
+<tr>
+<td align="center" width="20%">
+<strong>Message Brokers</strong>
+</td>
+<td width="80%">
+<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40" style="margin: 5px;"/>
+</td>
+</tr>
 
-#### **Monitoring & Logging**
-<p align="left">
-  <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
-  </a>
-  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
-  </a>
-  <a href="https://grafana.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-  </a>
-</p>
+<tr>
+<td align="center" width="20%">
+<strong>Monitoring & Logging</strong>
+</td>
+<td width="80%">
+<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40" style="margin: 5px;"/>
+<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="Kibana" width="40" height="40" style="margin: 5px;"/>
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40" style="margin: 5px;"/>
+</td>
+</tr>
 
-#### **Development Tools**
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-</p>
+<tr>
+<td align="center" width="20%">
+<strong>Development Tools</strong>
+</td>
+<td width="80%">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin: 5px;"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" style="margin: 5px;"/>
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🏥 [Laboratory Information System](https://github.com/darkernel9104) 
+#### 🏥 [Laboratory Information System](https://github.com/cggithub333) 
 **Java Developer - Frontend Leader** | *Jan 2025 - Dec 2025*
 - Contributed to the development of a **microservice-based healthcare system** comprising **8+ services**
 - Leveraged cutting-edge technologies: **Redis, Kafka, gRPC** for inter-service communication
@@ -161,7 +175,7 @@
 - Collaborated with backend developers to integrate APIs and ensure seamless communication between services
 - Implemented real-time data synchronization and event-driven architecture patterns
 
-#### 🏫 [Medical School Health System](https://github.com/darkernel9104)
+#### 🏫 [Medical School Health System](https://github.com/cggithub333)
 **Team Leader** | *May 2025 - Jul 2025*
 - Developed a comprehensive health management system for a primary school
 - Managed multiple modules: **Vaccination Campaign, Health Check Campaign, Accident Events, and Prescription Request**
@@ -170,36 +184,120 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics Dashboard
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darkernel9104&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkernel9104&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+#### 📈 Statistics Overview
+<img src="https://github-readme-stats.vercel.app/api?username=cggithub333&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=400" alt="GitHub Stats" width="100%"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkernel9104&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+#### 🔥 Contribution Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cggithub333&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
+
+</td>
+<td width="50%" valign="top">
+
+#### 💻 Language Distribution
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cggithub333&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" alt="Top Languages" width="100%"/>
+
+#### 🏆 Achievement Showcase
+<img src="https://github-profile-trophy.vercel.app/?username=cggithub333&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary>📊 <b>Detailed Metrics</b></summary>
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cggithub333&theme=tokyonight" alt="GitHub Profile Summary" width="100%"/>
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cggithub333&theme=tokyonight" alt="Repos Per Language" width="100%"/>
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cggithub333&theme=tokyonight" alt="Most Commit Language" width="100%"/>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cggithub333&theme=tokyonight" alt="Stats" width="100%"/>
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cggithub333&theme=tokyonight" alt="Productive Time" width="100%"/>
+</td>
+</tr>
+</table>
+
+</details>
 
 ---
 
 ### 🤝 Connect with Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/bryan-ha-189381202" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://x.com/darkernel9104" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-</p>
+<table>
+<tr>
+<td>
+
+📧 **Email**
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> [hhc9104@gmail.com](mailto:hhc9104@gmail.com)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+💼 **LinkedIn**
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> [linkedin.com/in/bryan-ha-189381202](https://linkedin.com/in/bryan-ha-189381202)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🐦 **Twitter**
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/> [x.com/cggithub333](https://x.com/cggithub333)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+💻 **GitHub**
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> [github.com/cggithub333](https://github.com/cggithub333)
+
+</td>
+</tr>
+</table>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=darkernel9104&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=cggithub333&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/cggithub333?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
