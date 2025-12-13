@@ -45,9 +45,9 @@
 
 #### 🌏 Personal
 
-- **Languages**: 🇻🇳 Vietnamese (Native), 🇺🇸 English, 🇯🇵 Japanese (Learning)
+- **Languages**: 🇻🇳 Vietnamese (Native), 🇺🇸 English and 🇯🇵 Japanese (Learning)
 - **Interests**: CLI Tools Development, New Technologies
-- **Fun Fact**: Building CLI tools & mastering Japanese!  
+- **Fun Fact**: I love exploring and building bash CLI tools!  
 
 </td>
 <td width="50%" valign="top">
