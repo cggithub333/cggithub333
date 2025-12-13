@@ -80,20 +80,6 @@ Programming Languages
 
 <tr>
 <td align="center">
-Frontend
-</td>
-<td align="center" style="padding: 10px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin: 8px;" />
-<img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" style="margin: 8px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" style="margin: 8px;" hspace="15"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin: 8px;" hspace="15"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin: 8px;" hspace="15"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" style="margin: 8px;" hspace="15"/>
-</td>
-</tr>
-
-<tr>
-<td align="center">
 Backend
 </td>
 <td align="center" style="padding: 10px;">
@@ -107,13 +93,27 @@ Backend
 
 <tr>
 <td align="center">
+Frontend
+</td>
+<td align="center" style="padding: 10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin: 8px;" />
+<img src="https://www.quadrilite.com/wp-content/uploads/2024/04/React-natived-1.png" alt="React Native" width="40" height="40" style="margin: 8px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" style="margin: 8px;" hspace="15"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin: 8px;" hspace="15"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin: 8px;" hspace="15"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" style="margin: 8px;" hspace="15"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
 Databases
 </td>
 <td align="center" style="padding: 10px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="margin:  8px;" hspace="15"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark. svg" alt="MySQL" width="40" height="40" style="margin: 8px;" hspace="15"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin: 8px;" hspace="15"/>
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40" style="margin: 8px;" hspace="15"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark. svg" alt="MongoDB" width="40" height="40" style="margin: 8px;" hspace="15"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="margin: 8px;" hspace="15"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" style="margin:  8px;" hspace="15"/>
 </td>
 </tr>
@@ -124,20 +124,11 @@ Cloud & DevOps
 </td>
 <td align="center" style="padding: 10px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" style="margin: 8px;" hspace="15"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark. svg" alt="Docker" width="40" height="40" style="margin: 8px;" hspace="15"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" style="margin: 8px;" hspace="15"/>
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" style="margin:  8px;" hspace="15"/>
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40" style="margin: 8px;" hspace="15"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original. svg" alt="Nginx" width="40" height="40" style="margin: 8px;" hspace="15"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" style="margin: 8px;" hspace="15"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin: 8px;" hspace="15"/>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-Message Brokers
-</td>
-<td align="center" style="padding:  10px;">
-<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40" style="margin: 8px;" hspace="15"/>
 </td>
 </tr>
 
@@ -161,6 +152,16 @@ Development Tools
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" style="margin: 8px;" hspace="15"/>
 </td>
 </tr>
+
+<tr>
+<td align="center">
+Message Brokers
+</td>
+<td align="center" style="padding:  10px;">
+<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40" style="margin: 8px;" hspace="15"/>
+</td>
+</tr>
+
 </table>
 
 ---
