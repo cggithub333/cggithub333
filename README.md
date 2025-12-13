@@ -8,7 +8,7 @@
 ---
 
 <p align="center" width="100%">
-  <img width="90%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW50czd1aG9pbzNnNzZ3ZXg5ZXVnamkwdDFkdG9vaTBna2QyODNydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aHiv481xki1WdhQonS/giphy.gif" alt="Coding Gif" width="400"/>
+  <img width="90%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW50czd1aG9pbzNnNzZ3ZXg5ZXVnamkwdDFkdG9vaTBna2QyODNydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aHiv481xki1WdhQonS/giphy.gif" alt="Coding Animation">
 </p>
 
 ---
@@ -184,60 +184,56 @@ Development Tools
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats Dashboard
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=cggithub333&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
-    width="32%"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=cggithub333&hide_border=true&theme=tokyonight"
-    width="32%"
-    alt="Contribution Streak"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cggithub333&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
-    width="32%"
-    alt="Top Languages"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cggithub333&theme=tokyonight"
-    width="100%"
-    alt="Profile Overview"
-  />
-</p>
+<!-- Hero Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=cggithub333&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&ring_color=1F6FEB" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=cggithub333&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" width="49%" alt="GitHub Streak" />
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cggithub333&theme=tokyonight"
-    width="32%"
-    alt="Repositories per Language"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cggithub333&theme=tokyonight"
-    width="32%"
-    alt="Most Commit Language"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cggithub333&theme=tokyonight"
-    width="32%"
-    alt="Productive Time"
-  />
-</p>
+</div>
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=cggithub333&theme=tokyonight&no-frame=true&row=1&column=6"
-    width="100%"
-    alt="GitHub Trophies"
-  />
-</p>
+<div align="center">
 
+<!-- Detailed Activity Graph -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cggithub333&theme=tokyonight" width="100%" alt="Contribution Graph" />
+
+</div>
+
+<div align="center">
+
+<!-- Language & Commit Stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cggithub333&theme=tokyonight" width="32%" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cggithub333&theme=tokyonight" width="32%" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cggithub333&theme=tokyonight&utcOffset=7" width="32%" alt="Productive Time" />
+
+</div>
+
+<div align="center">
+
+<!-- Top Languages Compact View -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cggithub333&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=html,css" width="49%" alt="Top Languages" />
+
+<!-- Activity Graph with better styling -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cggithub333&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9&area=true&custom_title=Contribution%20Activity%20Graph" width="100%" alt="Activity Graph" />
+
+</div>
+
+<div align="center">
+
+<!-- GitHub Trophies with better layout -->
+<img src="https://github-profile-trophy.vercel.app/?username=cggithub333&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies" />
+
+</div>
+
+<div align="center">
+
+<!-- Additional Stats Cards -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=cggithub333&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact" width="49%" alt="Coding Stats" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=cggithub333&repo=cggithub333&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" width="49%" alt="Pinned Repo" />
+
+</div>
 
 ---
 
@@ -272,11 +268,19 @@ Development Tools
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cggithub333&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" hspace="5"/>
-  <img src="https://img.shields.io/github/stars/cggithub333?affiliations=OWNER&label=Total%20Stars&style=flat" alt="Total Stars"  hspace="5"/>
-  <img src="https://img.shields.io/github/last-commit/cggithub333/cggithub333?label=Last%20commit&style=flat" alt="Last Commit"  hspace="5"/>
-  <img src="https://img.shields.io/github/followers/cggithub333?label=Followers&style=social" alt="GitHub Followers"  hspace="5"/>
-</p>
+<div align="center">
 
+### 📈 Profile Insights
 
+<img src="https://komarev.com/ghpvc/?username=cggithub333&label=Profile%20Views&color=1F6FEB&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/stars/cggithub333?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&color=FFC83D" alt="Total Stars" />
+<img src="https://img.shields.io/github/followers/cggithub333?label=Followers&style=for-the-badge&color=58A6FF" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/last-commit/cggithub333/cggithub333?label=Last%20Update&style=for-the-badge&color=1F6FEB" alt="Last Commit" />
+
+</div>
+
+<div align="center">
+  
+### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+</div>
