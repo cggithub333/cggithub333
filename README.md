@@ -72,6 +72,7 @@ Programming Languages
 </td>
 <td width="800" align="center" style="padding: 10px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin: 8px;" hspace="15"/>
+<img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" alt="C#" width="40" height="40" style="margin: 8px;" hspace="15"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin:  8px;" hspace="15"/>
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40" style="margin: 8px;" hspace="15"/>
 </td>
@@ -106,19 +107,6 @@ Frontend
 
 <tr>
 <td align="center">
-Databases
-</td>
-<td align="center" style="padding: 10px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="margin:  8px;" hspace="15"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin: 8px;" hspace="15"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40" style="margin: 8px;" hspace="15"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="margin: 8px;" hspace="15"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" style="margin:  8px;" hspace="15"/>
-</td>
-</tr>
-
-<tr>
-<td align="center">
 Cloud & DevOps
 </td>
 <td align="center" style="padding: 10px;">
@@ -128,6 +116,19 @@ Cloud & DevOps
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40" style="margin: 8px;" hspace="15"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" style="margin: 8px;" hspace="15"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin: 8px;" hspace="15"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+Databases
+</td>
+<td align="center" style="padding: 10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="margin:  8px;" hspace="15"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin: 8px;" hspace="15"/>
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40" style="margin: 8px;" hspace="15"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="margin: 8px;" hspace="15"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" style="margin:  8px;" hspace="15"/>
 </td>
 </tr>
 
