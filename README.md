@@ -1,4 +1,4 @@
-<h1 align="center">👨🏻‍💻 I'm Brian Ha</h1>
+<h1 align="center">👨🏻‍💻 I'm James Ha</h1>
 <h3 align="center">Full Stack Developer | Microservices Enthusiast | Ho Chi Minh City, Vietnam 🇻🇳</h3>
 
 <p align="center">
