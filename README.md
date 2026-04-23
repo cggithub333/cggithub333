@@ -65,37 +65,40 @@
 
 ### 🛠️ Tech Stack
 
-**Programming Languages**
+<p align="center">
+  <b>Programming Languages</b><br/><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cs,ts,bash" alt="Programming Languages"/></a>
+</p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" alt="C#" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/></p>
+<p align="center">
+  <b>Backend</b><br/><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,nodejs,express,dotnet" alt="Backend"/></a>
+</p>
 
-**Backend**
+<p align="center">
+  <b>Frontend</b><br/><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,redux,html,css,sass" alt="Frontend"/></a>
+</p>
 
-<p align="center"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="Pug" width="40" height="40"/></p>
+<p align="center">
+  <b>Cloud & DevOps</b><br/><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,nginx,linux" alt="Cloud & DevOps"/></a>
+</p>
 
-**Frontend**
+<p align="center">
+  <b>Databases</b><br/><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Databases"/></a>
+</p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> <img src="https://www.quadrilite.com/wp-content/uploads/2024/04/React-natived-1.png" alt="React Native" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/></p>
+<p align="center">
+  <b>Monitoring & Logging</b><br/><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=elasticsearch,grafana" alt="Monitoring & Logging"/></a>
+</p>
 
-**Cloud & DevOps**
-
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></p>
-
-**Databases**
-
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/></p>
-
-**Monitoring & Logging**
-
-<p align="center"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="Kibana" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/></p>
-
-**Development Tools**
-
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></p>
-
-**Message Brokers**
-
-<p align="center"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40"/></p>
+<p align="center">
+  <b>Development Tools</b><br/><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,postman,kafka" alt="Development Tools & Message Brokers"/></a>
+</p>
 
 ---
 
