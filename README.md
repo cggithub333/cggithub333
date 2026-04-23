@@ -65,40 +65,28 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <b>Programming Languages</b><br/><br/>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cs,ts,bash" alt="Programming Languages"/></a>
-</p>
+<!-- Heart-shaped tech stack -->
+<div align="center">
+<table><tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=java,cs&perline=2" alt=""/></td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ts,bash&perline=2" alt=""/></td>
+</tr></table>
+</div>
 
-<p align="center">
-  <b>Backend</b><br/><br/>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,nodejs,express,dotnet" alt="Backend"/></a>
-</p>
+<div align="center">
+<table><tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=spring,nodejs,express&perline=3" alt=""/></td>
+<td>&nbsp;</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=dotnet,react,redux&perline=3" alt=""/></td>
+</tr></table>
+</div>
 
-<p align="center">
-  <b>Frontend</b><br/><br/>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,redux,html,css,sass" alt="Frontend"/></a>
-</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,sass,aws,docker,kubernetes,jenkins,nginx&perline=8" alt=""/></p>
 
-<p align="center">
-  <b>Cloud & DevOps</b><br/><br/>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,nginx,linux" alt="Cloud & DevOps"/></a>
-</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=linux,postgres,mysql,mongodb,redis,elasticsearch&perline=6" alt=""/></p>
 
-<p align="center">
-  <b>Databases</b><br/><br/>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Databases"/></a>
-</p>
-
-<p align="center">
-  <b>Monitoring & Logging</b><br/><br/>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=elasticsearch,grafana" alt="Monitoring & Logging"/></a>
-</p>
-
-<p align="center">
-  <b>Development Tools</b><br/><br/>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,postman,kafka" alt="Development Tools & Message Brokers"/></a>
-</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=grafana,git,postman,kafka&perline=4" alt=""/></p>
 
 ---
 
