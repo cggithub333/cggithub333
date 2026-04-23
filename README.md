@@ -74,13 +74,7 @@
 </tr></table>
 </div>
 
-<div align="center">
-<table><tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=spring,nodejs,express,nestjs&perline=4" alt=""/></td>
-<td>&nbsp;</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=dotnet,react,redux&perline=3" alt=""/></td>
-</tr></table>
-</div>
+<p align="center"><img src="https://skillicons.dev/icons?i=spring,nodejs,express,nestjs,dotnet,react,redux&perline=7" alt=""/></p>
 
 <p align="center"><img src="https://skillicons.dev/icons?i=html,css,sass,aws,docker,kubernetes,jenkins,nginx&perline=8" alt=""/></p>
 
@@ -88,7 +82,7 @@
 
 <p align="center"><img src="https://skillicons.dev/icons?i=grafana,git,postman,kafka&perline=4" alt=""/></p>
 
-<p align="center"><img src="https://skillicons.dev/icons?i=neovim,podman&perline=2" alt=""/></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=neovim,ansible&perline=2" alt=""/></p>
 
 ---
 
