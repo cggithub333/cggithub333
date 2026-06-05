@@ -13,56 +13,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 💼 Professional
-
-- **Current Role**: Full Stack Developer
-- **Specialization**: Backend Systems & Microservices
-- **Experience**: Spring Boot, Node.js, React
-- **Academic**:  GPA 3.3/4.0
-
-</td>
-<td width="50%" valign="top">
-
-#### 🚀 Current Focus
-
-- **Project**: Laboratory Information System
-  - 8+ Services
-  - Redis, Kafka, gRPC Integration
-- **Interest**:  Distributed Systems, Event Streaming
-- **Goal**: Senior Developer (5-year plan)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🌏 Personal
-
-- **Languages**: 🇻🇳 Vietnamese (Native), 🇺🇸 English and 🇯🇵 Japanese (Learning)
-- **Interests**: CLI Tools Development, New Technologies
-- **Fun Fact**: I love exploring and building bash CLI tools!  
-
-</td>
-<td width="50%" valign="top">
-
-#### 📬 Contact
-
-- **Email**: hhc9104@gmail.com
-- **Location**: Ho Chi Minh City, Vietnam
-- **Open to**:  Collaboration & Opportunities
-
-</td>
-</tr>
-</table>
-
----
-
 ### 🛠️ Tech Stack
 
 <!-- Heart-shaped tech stack -->
