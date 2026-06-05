@@ -13,9 +13,10 @@
 
 ---
 
+<!--
 ### 🛠️ Tech Stack
 
-<!-- Heart-shaped tech stack -->
+Heart-shaped tech stack
 <div align="center">
 <table><tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=java,cs&perline=2" alt=""/></td>
@@ -33,6 +34,7 @@
 <p align="center"><img src="https://skillicons.dev/icons?i=grafana,git,postman,kafka&perline=4" alt=""/></p>
 
 <p align="center"><img src="https://skillicons.dev/icons?i=neovim,ansible&perline=2" alt=""/></p>
+-->
 
 ---
 
