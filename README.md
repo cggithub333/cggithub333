@@ -53,6 +53,7 @@ Heart-shaped tech stack
 <a href="https://linkedin.com/in/bryan-ha-189381202">linkedin.com/in/bryan-ha-189381202</a>
 </td>
 </tr>
+<!--
 <tr>
 <td>🐦 <b>Twitter</b></td>
 <td>
@@ -65,6 +66,7 @@ Heart-shaped tech stack
 <a href="https://github.com/cggithub333">github.com/cggithub333</a>
 </td>
 </tr>
+-->
 </table>
 
 ---
