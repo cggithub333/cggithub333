@@ -70,15 +70,6 @@ Heart-shaped tech stack
 ---
 
 <div align="center">
-
-### 📈 Profile Insights
-
-<img src="https://komarev.com/ghpvc/?username=cggithub333&label=Profile%20Views&color=1F6FEB&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/last-commit/cggithub333/cggithub333?label=Last%20Update&style=for-the-badge&color=1F6FEB" alt="Last Commit" />
-
-</div>
-
-<div align="center">
   
 ### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
