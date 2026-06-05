@@ -72,8 +72,6 @@
 ### 📈 Profile Insights
 
 <img src="https://komarev.com/ghpvc/?username=cggithub333&label=Profile%20Views&color=1F6FEB&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/stars/cggithub333?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&color=FFC83D" alt="Total Stars" />
-<img src="https://img.shields.io/github/followers/cggithub333?label=Followers&style=for-the-badge&color=58A6FF" alt="GitHub Followers" />
 <img src="https://img.shields.io/github/last-commit/cggithub333/cggithub333?label=Last%20Update&style=for-the-badge&color=1F6FEB" alt="Last Commit" />
 
 </div>
