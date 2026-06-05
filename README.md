@@ -36,25 +36,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🏥 [Laboratory Information System](https://github.com/cggithub333) 
-**Java Developer - Frontend Leader** | *Jan 2025 - Dec 2025*
-- Contributed to the development of a **microservice-based healthcare system** comprising **8+ services**
-- Leveraged cutting-edge technologies:  **Redis, Kafka, gRPC** for inter-service communication
-- Led the **frontend development team**, designing and implementing intuitive, responsive user interfaces with **React**
-- Collaborated with backend developers to integrate APIs and ensure seamless communication between services
-- Implemented real-time data synchronization and event-driven architecture patterns
-
-#### 🏫 [Medical School Health System](https://github.com/cggithub333)
-**Team Leader** | *May 2025 - Jul 2025*
-- Developed a comprehensive health management system for a primary school
-- Managed multiple modules: **Vaccination Campaign, Health Check Campaign, Accident Events, and Prescription Request**
-- Led a team to deliver a full-featured solution addressing real-world healthcare management challenges
-- Designed the system architecture and coordinated development across multiple features
-
----
-
 ### 📊 GitHub Stats Dashboard
 
 <div align="center">
